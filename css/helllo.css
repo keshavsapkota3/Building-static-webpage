@@ -26,9 +26,6 @@
 }
 
 /* This is the grid of the main body */
-
-#body-container{
-    width: 100%;
-    margin: 1px;
-    border-radius: 2%;
+#img{
+    height: 300px;
 }
